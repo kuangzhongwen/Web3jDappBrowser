@@ -9,9 +9,8 @@ window.ctxWeb3.eth.defaultAccount = window.web3.eth.defaultAccount;
 
 这两句是和dapp源代码中需要的web3j对象命名一致。
 
+<img src="https://m.qpic.cn/psb?/V149vWW31mgVIF/nP6PweDjv68blB41vNXx6V5vC3wERBVfhUssz04esHI!/b/dPQAAAAAAAAA&bo=OASABwAAAAARB4s!&rf=viewer_4" width="540" hegiht="690" align=center />
 
-![avatar](https://m.qpic.cn/psb?/V149vWW31mgVIF/nP6PweDjv68blB41vNXx6V5vC3wERBVfhUssz04esHI!/b/dPQAAAAAAAAA&bo=OASABwAAAAARB4s!&rf=viewer_4)
+<img src="http://m.qpic.cn/psb?/V149vWW31mgVIF/mnfveEzulOoRrV9G.T30oPAsOdtyGkRuLMm3DrUKoqk!/b/dIsBAAAAAAAA&bo=OASABwAAAAARF5s!&rf=viewer_4" width="540" hegiht="690" align=center />
 
-![avatar](http://m.qpic.cn/psb?/V149vWW31mgVIF/mnfveEzulOoRrV9G.T30oPAsOdtyGkRuLMm3DrUKoqk!/b/dIsBAAAAAAAA&bo=OASABwAAAAARF5s!&rf=viewer_4)
-
-![avatar](http://m.qpic.cn/psb?/V149vWW31mgVIF/IRKYgL*LbJ0w.ykvSWSpv8W7XnBwtYapamy4nEj9hno!/b/dA4AAAAAAAAA&bo=OASABwAAAAARF5s!&rf=viewer_4)
+<img src="http://m.qpic.cn/psb?/V149vWW31mgVIF/IRKYgL*LbJ0w.ykvSWSpv8W7XnBwtYapamy4nEj9hno!/b/dA4AAAAAAAAA&bo=OASABwAAAAARF5s!&rf=viewer_4" width="540" hegiht="690" align=center />
